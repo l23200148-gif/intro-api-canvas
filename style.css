@@ -1,22 +1,6 @@
-/* Centrar todo en la pantalla */
-body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    margin: 0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-/* Efecto de sombra al cuadro de color */
-#cuadroColor {
-    transition: 0.2s;
-    cursor: pointer;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
-}
-
-/* Que los inputs numéricos no se vean tan simples */
-input[type="number"] {
-    text-align: center;
-    font-weight: bold;
+#lienzo {
+    background-color: lightgrey;
+    border: 2px solid black;
+    width: 500px;
+    height: 300px;
 }
