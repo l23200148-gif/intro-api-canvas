@@ -1,6 +1,12 @@
-#lienzo {
-    background-color: lightgrey;
-    border: 2px solid black;
-    width: 500px;
-    height: 300px;
+/* ======================================================
+   Archivo: estilos.css
+   Descripción: Estilos visuales para el canvas
+   ====================================================== */
+
+/* Estilo para el fondo del canvas */
+canvas {
+    background-color: #d2b48c;   /* café claro (relleno) */
+    border: 3px solid #5a3a1a;   /* café oscuro (línea) */
+    border-radius: 15px;        /* esquinas redondeadas */
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4); /* sombra */
 }

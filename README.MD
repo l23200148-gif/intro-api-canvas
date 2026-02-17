@@ -1,6 +1,21 @@
-# Título principal
-## Subtítulo
-Este es un párrafo con **negritas** y *cursivas*.
+# 🎨 Rectángulo Ajustable en Canvas
 
-- Lista item 1
-- Lista item 2
+Proyecto realizado para la materia **Graficación / Programación Web**.  
+Este programa utiliza **HTML5 Canvas** y **JavaScript** para dibujar un rectángulo ajustable dentro de un lienzo que se adapta al tamaño de la pantalla.
+
+---
+
+## 👨‍🎓 Autor
+**Mercado Garcia Josue Alberto**  
+7° grado  
+
+---
+
+## 📅 Fecha
+16/02/26  
+
+---
+
+## 📄 Descripción
+El canvas ocupa el **50% del ancho y alto de la ventana**.  
+Dentro se dibuja un **rectángul**
